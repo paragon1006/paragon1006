@@ -1,0 +1,6 @@
+- 👋 Hi, I’m Paragon
+- 👀 I’m interested in coding for career purposes
+- 🌱 I’m currently learning python
+- 💞️ I’m looking to collaborate on whatever i can tbh
+- 📫 How to reach me beastchappal@gmail.com
+- I am an intermediate python dev hoping to make a career in python.....
